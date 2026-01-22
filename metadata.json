@@ -1,0 +1,8 @@
+{
+  "name": "DAV PRO AI",
+  "description": "A full-stack SaaS portfolio system featuring WhatsApp AI Auto-Reply, QR onboarding, and payment proof workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
